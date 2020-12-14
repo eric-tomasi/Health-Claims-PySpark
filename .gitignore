@@ -1,7 +1,11 @@
+# csv file store
+data/
+
+#pyspark related info
+spark-warehouse/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
 
 # C extensions
 *.so
