@@ -1,5 +1,6 @@
 # csv file store
-data/
+Data/
+claims.csv/
 
 #pyspark related info
 spark-warehouse/
